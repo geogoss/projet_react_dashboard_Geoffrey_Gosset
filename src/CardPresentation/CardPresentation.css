@@ -5,7 +5,7 @@
 }
 
 .cadre{
-    height: 400px;
+    width: 20%  ;
     border-radius: 5%;
     background-color: rgba(29,32,75,255);
 }
@@ -20,12 +20,21 @@
 
 .sousPresentation{
     background-color: rgba(29,32,75,255);
+    font-size: xx-small;
+}
+
+.btnA{
     color: rgba(96,99,159,255);
+
 }
 
 .txtSousImg{
     color: hsl(236, 100%, 87%);
+    font-size: xx-small;
 }
 
+.h1Jeremy{
+    font-size: x-large;
+}
 
 

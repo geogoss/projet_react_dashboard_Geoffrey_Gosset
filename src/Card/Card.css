@@ -1,2 +1,44 @@
+:root{
+    --card-color: rgba(29,32,75,255);
+    --card-hover: rgba(52,57,123,255);
+}
 
+.plan{
+    width: 30%;
+    height: 150px;
+    border-radius: 10px;
+    background-color: rgba(255,139,100,255);
+    overflow: hidden;
+
+}
+
+.carteSvg{
+    position: absolute;
+    top: -5px;
+    right: 5px;
+    /* width: 20px; */
+}
+
+
+.carte{
+    height: 75%;
+    border-radius: 10px;
+    background-color: var(--card-color);
+    color: white;
+    z-index: 1;
+}
+
+.carte:hover{
+    background-color: var(--card-hover);
+}
+
+.carteP1{
+    font-size: small;
+}
+.carteP2{
+    font-size: xx-large;
+}
+.carteP3{
+    font-size: small;
+}
 

@@ -15,9 +15,13 @@ code {
 
 .englobante{
   margin-top: 10% !important;
-  
+  background-color: rgba(13,19,35,255);
+  padding: 3%;
 }
 
+.App{
+  
+}
 
 
 
