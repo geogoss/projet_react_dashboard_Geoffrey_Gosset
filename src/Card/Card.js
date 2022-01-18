@@ -3,7 +3,7 @@ import './Card.css'
 
 export default function Card(props) {
     return (
-        <div className="plan col-3 d-flex align-items-end p-0 m-1 position-relative">
+        <div className={"plan col-3 d-flex align-items-end p-0 m-1 position-relative " + props.class1}>
             <div className='carteSvg'>{props.svgName} </div>
             <div className="carte m-0 w-100">
                 <div className="carteHeader d-flex justify-content-around text-center ">
@@ -17,3 +17,10 @@ export default function Card(props) {
         </div>
     )
 }
+
+
+
+
+
+
+ 

@@ -19,9 +19,35 @@ code {
   padding: 3%;
 }
 
-.App{
-  
+.work{
+  background-color: rgba(255,139,100,255);
 }
+
+
+.play{
+  background-color: rgba(86,194,230,255);
+}
+
+.study{
+  background-color: rgba(255,94,124,255);
+}
+
+.exercise{
+  background-color: rgba(75,207,131,255);
+}
+
+.social{
+  background-color: rgba(114,53,209,255);
+}
+
+.self{
+  background-color: rgba(241,198,91,255);
+}
+
+
+
+
+
 
 
 
