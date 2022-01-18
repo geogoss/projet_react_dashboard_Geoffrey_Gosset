@@ -23,7 +23,12 @@
     font-size: xx-small;
 }
 
+p{
+    cursor: pointer;
+}
+
 .btnA{
+    cursor: pointer;
     color: rgba(96,99,159,255);
 
 }
